@@ -1,5 +1,5 @@
 ---
-title: 'Deterministic, finite dimensio'
+title: Book of Proofs - Ch. 4
 
 ---
 
